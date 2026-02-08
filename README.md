@@ -1,4 +1,3 @@
-Adhavan/README.md
 # Hi there, I'm [Adhavan] 👋
 
 ## 🚀 About Me
